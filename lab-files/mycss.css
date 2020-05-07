@@ -1,0 +1,53 @@
+/*Jude torchon CSS document */
+
+body {
+	/*background-image: url(./trees.png);*/
+	background-color: rgb(153,204,255);
+
+}
+
+p {
+	color:orange;
+	text-align:center;
+	font-family:"Times New Roman";
+	font-size:20px;
+}
+
+a:link, a:visited, a:hover {
+	color: red;
+}
+
+a:hover {
+	font-size: 150%;
+	background:  transparent;
+	font-family: monospace;
+	color: darkcyan;
+	text-decoration: none;
+}
+
+.caution {
+	font-size: 200%
+	color: blue;
+}
+
+table, th, td {
+	border: 2px dashed black;
+	border-collapse: collapse;
+	padding: 5px;
+	text-align: left;
+	background-color: rgb(153,204,255);
+
+	
+}
+
+ul.cust {
+	list-style-type: circle;
+	padding: 12px;
+	margin: 3px;
+	background-color: rgb(153,204,255);
+}
+
+
+div {
+	text-align: center;
+}

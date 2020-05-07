@@ -1,0 +1,57 @@
+body {
+	background-color: rgb(153,204,255);
+	background-image: url(../images/aboutme_bg2.jpg);
+	font-family: monospace;
+	font-size: 13px;
+
+}
+.center-text {
+  text-align: center;
+}
+
+a.center-text, a:link, a:visited {
+  display: block;
+  background-color: rgb(255,102,102);
+  font-size: 16px;
+  
+}
+
+a:hover, a:active {
+  background-color: rgb(153,255,255);
+}
+
+
+ol.center {
+  text-align: left;
+  list-style-position: inside;
+ 
+ }
+
+hr {
+	width: 50%;
+	height: 1px;
+	background-color: white;
+	border-color: white;
+}
+
+h1 {
+	text-align: center;
+}
+
+h1, h2, h3 {
+	font-family: monospace;
+	color: white;
+}
+
+table, th, td {
+	border: 2px solid white;
+	border-collapse: collapse;
+	padding: 5px;
+	text-align: left;
+	background-color: rgb(255,102,102);
+	opacity: .9;
+
+	
+}
+
+
